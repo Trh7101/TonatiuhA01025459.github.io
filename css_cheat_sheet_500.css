@@ -1,0 +1,22 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    margin: 1px;
+    padding: 15px;
+}
+
+div {
+    background-color: rgb(98, 215, 168);
+    margin: 10px 15px;
+    padding: 15px;
+}
+
+#B1 {
+    background-color: rgb(135, 242, 125);
+}
+
+#B2 {
+    background-color: rgb(135, 242, 125);
+}
